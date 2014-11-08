@@ -1,0 +1,7 @@
+execute pathogen#infect()
+set background=dark
+set ts=4
+set number
+set laststatus=2
+nmap j gj
+nmap k gk
