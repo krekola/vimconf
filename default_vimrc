@@ -19,4 +19,4 @@ map <Up> gk
 set colorcolumn=80
 highlight ColorColumn ctermbg=darkgray
 
-nmap <F1> :TagbarToggle<CR>
+nmap <F8> :TagbarToggle<CR>
